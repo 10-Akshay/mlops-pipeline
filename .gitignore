@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+mlruns/
+mlflow.db
+model.pkl
+.env
+venv/
