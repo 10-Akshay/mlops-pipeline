@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: mlops-api
-        image: mlops-api
+        image: akshaysutar10/mlops-api:latest
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 8000
